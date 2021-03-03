@@ -7,7 +7,7 @@ A small addon for running an externally edited python file from with blender eas
 - Use "Code -> Download zip" to download 
 - Extract the python file (.py) from the zip archive 
 - Install the extracted python file within blender  (Edit Menu -> Preferences -> Addons)
-- Activate "Object: SimpleVisibility"
+- Activate "Development: SimpleExternalScriptingAddon"
 
 # Usage:
 1. Make sure your blendfile has already saved to disk to have a valid directory and filename
